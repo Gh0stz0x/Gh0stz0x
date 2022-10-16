@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gh0stz0x
-- 👀 I’m interested in 🤔
+- 👀 I’m interested in 🙂
 - 🌱 I’m currently learning Python, Rust
 - 💞️ I’m looking to collaborate on 🤨
-- 📫 How to reach me: Delta Chat andrea@testtun.org
+- 📫 How to reach me: Delta Chat andrea@testrun.org
 
 <!---
 Gh0stz0x/Gh0stz0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
