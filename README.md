@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gh0stz0x
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning Python, Rust
-- 💞️ I’m looking to collaborate on FLOSS Projects
 - 📫 How to reach me: Delta Chat andrea@testrun.org
 
 <!---
