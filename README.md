@@ -2,7 +2,6 @@
 - 👀 I’m interested in Learning
 - 🌱 I’m currently learning Python and Rust
 - 📫 How to reach me andrea@testrun.org
-- 😄 Pronouns: He
 - ⚡ Fun fact: I don't know why I'm here. 🤔
 
 <!---
